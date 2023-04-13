@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import {splitIntoWords} from './01-hello-tests/01';
-import {User} from './06/06';
+import {User} from './06-callbacks-events/06';
 
 const sentense = 'Hello my friends!'
 
